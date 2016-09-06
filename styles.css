@@ -18,11 +18,14 @@ button {
   margin: 25% 20px;
   font-size: 20px;
   letter-spacing: 2px;
+  outline: none;
 }
 
 button:hover {
   background-color: #B2479A;
   border-color: #CC7FB5 #E5B6D5;
+  cursor: pointer;
+  outline: none;
 }
 
 .btn-random {
