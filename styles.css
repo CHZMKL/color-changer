@@ -1,0 +1,34 @@
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
+#buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  background-color: #E5B6D5;
+  border-width: 8px;
+  border-color: #B2479A #CC7FB5;
+  color: #FFFFFF;
+  width: 175px;
+  height: 80px;
+  margin: 25% 20px;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+button:hover {
+  background-color: #B2479A;
+  border-color: #CC7FB5 #E5B6D5;
+}
+
+.btn-random {
+
+}
+
+.btn-reset {
+
+}
