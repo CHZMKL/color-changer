@@ -10,6 +10,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  height: auto;
+  width: auto;
 }
 
 button {
@@ -38,4 +40,15 @@ button:hover {
 
 .btn-reset {
 
+}
+
+@media only screen and (max-width: 500px) {
+
+  #buttons {
+    
+  }
+
+    .btn-reset {
+        height: 50px;
+    }
 }
