@@ -20,7 +20,5 @@ btnReset.addEventListener('click', function ()
 btnRandom.addEventListener('click', function ()
 {
   generator();
-
   body.style.backgroundColor = newColor;
-
 });
