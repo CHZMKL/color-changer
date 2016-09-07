@@ -2,6 +2,10 @@
   font-family: 'Open Sans', sans-serif;
 }
 
+body {
+  background-color: white;
+}
+
 #buttons {
   display: flex;
   align-items: center;
