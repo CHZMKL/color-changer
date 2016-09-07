@@ -35,32 +35,16 @@ button:hover {
   outline: none;
 }
 
-.btn-random {
-
-}
-
-.btn-reset {
-
-}
-
 @media only screen and (max-width: 500px) {
 
     #buttons {
     display: inline-table;
-    margin: 100px;
-    /*width: 100%;
-    height: 100%;*/
-    /*align-items: center;*/
-
   }
-
-  button {
+    button {
     display: block;
     margin: 50px 50px;
   }
-
     .btn-reset {
-        height: 50px;
-        /*position: absolute;*/
+    height: 50px;
     }
 }
